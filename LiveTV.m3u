@@ -195,6 +195,9 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
+#EXTINF:0 tvg-id="test" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",test
+https://raw.githubusercontent.com/satria113/iptv/master/azzam_playlist.m3u
+
 ## Test ##
 
 
