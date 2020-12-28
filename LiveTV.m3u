@@ -193,7 +193,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
-http://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8
+http://161.0.157.38/PLTV/88888888/224/3221226568/index.m3u8
 
 #EXTINF:0 tvg-id="test" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",test
 https://raw.githubusercontent.com/satria113/iptv/master/azzam_playlist.m3u
