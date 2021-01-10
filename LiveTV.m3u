@@ -257,8 +257,7 @@ http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71098
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71087
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="MOVIES/TV SERIES",FOX Action Movies
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71114
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="MOVIES/TV SERIES",FOX HD
-http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71115
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="MOVIES/TV SERIES",FOX Family Movies
 
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" tvg-chno="50" channel-id="50" group-title="MYSG",FOX HD
+http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71115
 
